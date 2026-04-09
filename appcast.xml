@@ -1,0 +1,25 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+    <channel>
+        <title>QuickIP</title>
+        <item>
+            <title>Version 0.2</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <h2>QuickIP 0.2 (Test Update)</h2>
+                <ul>
+                    <li>Sparkle update test</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 10 Apr 2026 00:00:00 +1000</pubDate>
+            <enclosure
+                url="https://github.com/BSKapps/quickip-updates/releases/download/v0.2/QuickIP_0.2.zip"
+                sparkle:edSignature="qWfXq8/yuF861McCMfTBlZL05qEDcb093AUgXNClBPho2pPAT4lUgnElNFqpxw/MgMI7ju/bKOT+w1gu0YQCDw=="
+                length="4843828"
+                type="application/octet-stream"
+            />
+        </item>
+    </channel>
+</rss>
