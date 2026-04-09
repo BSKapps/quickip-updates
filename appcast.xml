@@ -3,21 +3,23 @@
     <channel>
         <title>QuickIP</title>
         <item>
-            <title>Version 0.2</title>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <title>Version 2.1</title>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <description><![CDATA[
-                <h2>QuickIP 0.2 (Test Update)</h2>
+                <h2>QuickIP 2.1</h2>
                 <ul>
-                    <li>Sparkle update test</li>
+                    <li>Sparkle auto-update test</li>
+                    <li>IPv6 loopback filter fix</li>
+                    <li>New parsing test suite (73 tests)</li>
                 </ul>
             ]]></description>
-            <pubDate>Thu, 10 Apr 2026 00:00:00 +1000</pubDate>
+            <pubDate>Thu, 10 Apr 2026 01:00:00 +1000</pubDate>
             <enclosure
-                url="https://github.com/BSKapps/quickip-updates/releases/download/v0.2/QuickIP_0.2.zip"
-                sparkle:edSignature="qWfXq8/yuF861McCMfTBlZL05qEDcb093AUgXNClBPho2pPAT4lUgnElNFqpxw/MgMI7ju/bKOT+w1gu0YQCDw=="
-                length="4843828"
+                url="https://github.com/BSKapps/quickip-updates/releases/download/v2.1/QuickIP_2.1.zip"
+                sparkle:edSignature="jEgrau5hQimffVXCdQ9jjCienzvledJ0XTygbrfWR2HrdpMFYFrE4euf342X5FT4/FjbJv9emuEpgHC3xa32DA=="
+                length="4843884"
                 type="application/octet-stream"
             />
         </item>
