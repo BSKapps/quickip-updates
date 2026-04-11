@@ -5,5 +5,16 @@
         <link>https://bskapps.com</link>
         <description>QuickIP updates</description>
         <language>en</language>
+        <item>
+            <title>Version 2.0</title>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <pubDate>Wed, 09 Apr 2026 12:00:00 +1000</pubDate>
+            <enclosure url="https://github.com/BSKapps/quickip-updates/releases/download/v2.0/QuickIP-2.0.zip"
+                       sparkle:edSignature="3BaN4neKgu86tezEOTlZ8q81DDVt3C8VIpJR9b35rRgymveW0JmlSz7ABecXjViRpAY4kBqJ+pWJQBLkcb8nBA=="
+                       length="4713147"
+                       type="application/octet-stream" />
+        </item>
     </channel>
 </rss>
