@@ -2,26 +2,8 @@
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>QuickIP</title>
-        <item>
-            <title>Version 2.1</title>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <description><![CDATA[
-                <h2>QuickIP 2.1</h2>
-                <ul>
-                    <li>Sparkle auto-update test</li>
-                    <li>IPv6 loopback filter fix</li>
-                    <li>New parsing test suite (73 tests)</li>
-                </ul>
-            ]]></description>
-            <pubDate>Thu, 10 Apr 2026 01:00:00 +1000</pubDate>
-            <enclosure
-                url="https://github.com/BSKapps/quickip-updates/releases/download/v2.1/QuickIP_2.1.zip"
-                sparkle:edSignature="jEgrau5hQimffVXCdQ9jjCienzvledJ0XTygbrfWR2HrdpMFYFrE4euf342X5FT4/FjbJv9emuEpgHC3xa32DA=="
-                length="4843884"
-                type="application/octet-stream"
-            />
-        </item>
+        <link>https://bskapps.com</link>
+        <description>QuickIP updates</description>
+        <language>en</language>
     </channel>
 </rss>
