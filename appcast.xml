@@ -14,8 +14,6 @@
             <description sparkle:format="markdown">## What's New
 
 - System Info Panel - CPU, RAM, Wi-Fi signal and more
-- License keys now stored securely in Keychain
-- App category set for Utilities
 - Bug fixes and stability improvements
             </description>
             <enclosure url="https://github.com/BSKapps/quickip-updates/releases/download/v2.1.0/QuickerIP-2.1.0.zip"
