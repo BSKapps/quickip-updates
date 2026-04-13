@@ -6,22 +6,6 @@
         <description>Quicker IP updates</description>
         <language>en</language>
         <item>
-            <title>Version 2.1.0</title>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>2.1.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <pubDate>Sun, 13 Apr 2026 20:30:00 +1000</pubDate>
-            <description sparkle:format="markdown">## What's New
-
-- System Info Panel - CPU, RAM, Wi-Fi signal and more
-- Bug fixes and stability improvements
-            </description>
-            <enclosure url="https://github.com/BSKapps/quickip-updates/releases/download/v2.1.0/QuickerIP-2.1.0.zip"
-                       sparkle:edSignature="y8gDz3qJYFX776veMwmyv74sSxy/MsttNOznMkE4fAk8vzzNfISm58msGX3C1KgPPmWiXwxpThASm2c9I+rADw=="
-                       length="3960402"
-                       type="application/octet-stream" />
-        </item>
-        <item>
             <title>Version 2.0.1</title>
             <sparkle:version>8</sparkle:version>
             <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
